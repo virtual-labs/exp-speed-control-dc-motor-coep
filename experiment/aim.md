@@ -1,1 +1,1 @@
-### Aim of the experiment
+### Aim: To Study the Speed Control of Separately Excited DC Motor

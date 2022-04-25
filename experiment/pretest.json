@@ -2,38 +2,55 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "DC series motor should never be started on no-load because",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "the field current is zero",
+        "b": "machine does not pick up",
+        "c": "speed becomes dangerously high",
+        "d": "it will take too long to accelerate"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Fleming's left hand rule is applicable for:",
+      "answers": {
+        "a": "alternator",
+        "b": "Transformer",
+        "c": "dc generator",
+        "d": "DC motor"
       },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "A Conductor is rotating within a magnetic field. At which position do the peak voltage occur:",
+      "answers": {
+        "a": "Along the axis of the magnetic field",
+        "b": "Anywhere",
+        "c": "At the right angles to the axis of magnetic field",
+        "d": "At 45 degree angles to the axis of magnetic field"
+        
+
+      },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": " The Commutator in a dc machine can be convert", 
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "ac to dc",
+        "b": "dc to ac",
+        "c": "both a and b",
+        "d": "None of the above"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
+      
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
-  ]
+	]
 }
+    
