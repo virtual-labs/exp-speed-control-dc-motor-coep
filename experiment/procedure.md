@@ -17,7 +17,7 @@ Now again increase the load by closing another load switch.
 9. Store this data by clicking "Start Storing Data"
 10. Go on repeating this procedure till all loads are connected and data is stored.
 11. Now display the data by clicking "Show data". For Ex
- <center><img src="Images/img1.jpeg" title="" /></center>
+ <center><img src="images/img1.jpeg" title="" /></center>
  
 * Vf=field voltage of DC motor
 * If=field current of DC motor
@@ -28,7 +28,7 @@ Now again increase the load by closing another load switch.
 * Vt=terminal voltage
 * Iag=armature current of generator
 
- <center><img src="Images/img2.jpeg" title="" /></center>
+ <center><img src="images/img2.jpeg" title="" /></center>
  
 12. After experimentation, reduce armature voltage in steps to zero, then open armature DPST (double pole single throw) switch.
 13. Now reduce field voltage step by step and then open field DPST (double pole single throw) switch when zero value is reached.
