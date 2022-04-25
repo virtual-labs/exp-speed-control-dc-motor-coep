@@ -1,0 +1,53 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "If load on DC shunt motor is increased, its speed is decreased due to primarily",
+      "answers": {
+        "a": "increase in its flux",
+        "b": "decrease in back emf",
+        "c": "increase in armature current",
+        "d": "increase in brush drop"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The T/Ia graph of a DC series motor is a",
+	  "answers": {
+        "a": "straight line throughout",
+        "b": "parabola from no load to full load",
+        "c": "parabola up-to full load and straight line at overloads",
+        "d": "parabola throughout"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following quantity maintains the same direction whether a DC Machine runs as a generator or motor",
+      "answers": {
+        "a": "field current",
+        "b": "induced emf",
+        "c": "supply current",
+        "d": "armature current"
+	},
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The nature of the current flowing in the armature of the DC machine is", 
+	  "answers": {
+        "a": "ac",
+        "b": "dc",
+        "c": "pulsating",
+        "d": "dc superimposed on ac"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }    
+	]
+}
