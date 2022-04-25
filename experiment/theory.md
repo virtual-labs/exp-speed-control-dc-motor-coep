@@ -2,7 +2,7 @@
 
 DC motors are in general much more adaptable to adjustable speed drives than ac motors which are associated with a constant speed rotating fields. Indeed this susceptibility of dc motors to adjustment of their operating speed over wide ranges and by a variety of methods is one of the important reasons for strong competitive position of dc motors in modern industrial drives. It is thus necessary to gather an idea about speed control methods along with their associated characteristics.
 
-The torque, T developed and speed, n of a dc motor are given as,\
+The torque, T developed and speed, n of a dc motor are given as,
 
 T=K&Phi;Ia \
 N= Vf-IaRa/K&Phi;
