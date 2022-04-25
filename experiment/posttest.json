@@ -2,38 +2,52 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "If load on DC shunt motor is increased, its speed is decreased due to primarily",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "increase in its flux",
+        "b": "decrease in back emf",
+        "c": "increase in armature current",
+        "d": "increase in brush drop"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+      
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+      "question": "The T/Ia graph of a DC series motor is a",
+	  "answers": {
+        "a": "straight line throughout",
+        "b": "parabola from no load to full load",
+        "c": "parabola up-to full load and straight line at overloads",
+        "d": "parabola throughout"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+     
       "correctAnswer": "c",
       "difficulty": "beginner"
-    }
-  ]
+    },
+    {
+      "question": "Which of the following quantity maintains the same direction whether a DC Machine runs as a generator or motor",
+      "answers": {
+        "a": "field current",
+        "b": "induced emf",
+        "c": "supply current",
+        "d": "armature current"
+	},
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The nature of the current flowing in the armature of the DC machine is", 
+	  "answers": {
+        "a": "ac",
+        "b": "dc",
+        "c": "pulsating",
+        "d": "dc superimposed on ac"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }    
+	]
 }
